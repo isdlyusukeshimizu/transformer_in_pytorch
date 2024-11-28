@@ -2,9 +2,6 @@
 
 This repository contains a Transformer model implemented in PyTorch, leveraging the "English-Chinese Basic Sentences" dataset from the Kurohashi-Kawahara Laboratory at Kyoto University. 
 
-## Motivation
-I created this repository as part of my research project at **Wevnal**, where I am currently working on Vision-Language Model (VML) investigations. To deepen my understanding of Large Language Models (LLMs), particularly the Transformer architecture, I decided to implement the entire model from scratch using PyTorch. Instead of relying on pre-built modules or functions, I coded each component manually to gain a comprehensive understanding of the underlying mechanisms. This project aims to serve as both a learning resource and a practical implementation reference.
-
 ## Dataset
 The "English-Chinese Basic Sentences" dataset is used as the primary training and evaluation data. Each sentence pair contains a basic English sentence and its corresponding translation in Chinese, making it suitable for training language models for translation tasks.
 
